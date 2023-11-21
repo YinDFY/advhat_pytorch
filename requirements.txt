@@ -1,0 +1,26 @@
+face-alignment==1.4.1
+keras==2.11.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+mtcnn==0.1.1
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+pandas==1.3.5
+Pillow==8.4.0
+scikit-image==0.14.2
+scikit-learn==1.0.2
+scipy==1.7.3
+sklearn==0.0
+tensorboard==1.13.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX @ file:///tmp/build/80754af9/tensorboardx_1621440489103/work
+tensorflow==1.13.1
+tensorflow-estimator==1.13.0
+tensorflow-gpu==1.13.1
+tensorflow-io-gcs-filesystem==0.34.0
+torch==1.10.0
+torchelastic==0.2.0
+torchtext==0.11.0
+torchvision==0.11.0
+
