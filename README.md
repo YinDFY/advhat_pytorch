@@ -6,4 +6,6 @@ The result is:
 
 When train the adversial examples, I use the famous face recognization model: facenet. And test it on the model: mobile_Face, irse50 and ir152 in a black box attack way.
 
+Due to limited personal abilities, there may be errors in the project. I hope readers will point out errors so I can correct and learn.
+
 
