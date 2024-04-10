@@ -5,7 +5,8 @@ Task: target attack with cosine_similarity. With a target victim and generate ad
 
 The result is:
 
-![Dick_Cheney_Dick_Cheney_0013](https://github.com/YinDFY/advhat_pytorch/assets/127073326/d3f8e70c-63f4-437c-9d22-3505b39b5d49)
+![1-ori](https://github.com/YinDFY/advhat_pytorch/assets/127073326/4586591f-f994-4a5f-9c3e-30d3c0cd7fe7)
+
 
 
 When train the adversial examples, I use the famous face recognization model: facenet. And test it on the model: mobile_Face, irse50 and ir152 in a black box attack way.
